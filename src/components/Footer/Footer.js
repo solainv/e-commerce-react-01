@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="logo">
 
               <div>
-                <h1 className='text-white'>Multimart</h1>
+                <h1 className='text-white'>Mystore</h1>
               </div>
 
             </div>
