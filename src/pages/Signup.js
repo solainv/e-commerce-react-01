@@ -60,7 +60,7 @@ const Signup = () => {
       
           setLoading(false);
           toast.success('Account created');
-          navigate('/login');
+          navigate('/checkout');
         }
       );
             
